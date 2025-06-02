@@ -1,6 +1,6 @@
-# 🚀 Gemini API Passo-a-Passo – RocketLab
+# 🚀 Gemini API Passo-a-Passo – Rocket Lab
 
-Este repositório contém um **notebook interativo** com os conceitos essenciais para utilizar a **API do Gemini**, a plataforma de modelos de linguagem da Google. O material foi preparado como suporte para os participantes do **RocketLab**.
+Este repositório contém um **notebook interativo** com os conceitos essenciais para utilizar a **API do Gemini**, a plataforma de modelos de linguagem da Google. O material foi preparado como suporte para os participantes do **Rocket Lab**.
 
 ## 📘 O que você vai encontrar
 
