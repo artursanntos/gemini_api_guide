@@ -50,3 +50,13 @@ cd gemini-api-essentials
 jupyter notebook Gemini_API_Essentials.ipynb
 ```
 Siga os passos indicados no notebook!
+
+## 💸Limites de Uso de Modelos Gemini
+
+| Modelo | RPM | RPD | TPM |
+|---|---|---|---|
+| Gemini 2.5 Pro | 5 | 100 | 250.000 |
+| Gemini 2.5 Flash | 10 | 250 | 1.000.000 |
+| Gemini 2.5 Flash-Lite | 15 | 1.000 | 1.000.000 |
+
+*RPM = Requests Per Minute · RPD = Requests Per Day · TPM = Tokens Per Minute*
