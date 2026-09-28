@@ -3,6 +3,7 @@ ROTEIRO_AULA.md
 __pycache__/
 *.py[cod]
 *$py.class
+*.pptx
 
 # C extensions
 *.so
